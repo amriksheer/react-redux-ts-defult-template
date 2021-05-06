@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+1. Redux is a pattern and library for managing and updating application state, using events called "actions"
+
+2. Redux can integrate with any UI framework, and is most frequently used with React
+
+3. Using Create React App#
+      npx create-react-app my-app --template redux
+	  npx create-react-app my-app --template redux-typescript
+	  code .
+	  npm start
+      
+      
+      This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
